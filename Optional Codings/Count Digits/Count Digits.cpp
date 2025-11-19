@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int num , count = 0 , check;
-    cout<<"Enter the integer : ";
+    cout<<"Enter the integer  : ";
     cin>>num;
     int cpy = num;
     while(cpy != 0){
